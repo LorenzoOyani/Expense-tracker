@@ -1,8 +1,9 @@
 import React, { useState } from 'react'
-import Expense from "./Expense/Expense"
-import './index.css'
-import './expense.css'
+import Expense from "../src/Expense/Expense"
 import NewExpense from "./NewExpense"
+import './index.css'
+
+
 
 const DUMMY_STATE = [
     
